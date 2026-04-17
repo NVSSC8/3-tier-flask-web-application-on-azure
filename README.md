@@ -181,3 +181,20 @@ password: 123
 # 👨‍💻 Author
 
 Cloud / DevOps Project demonstrating real-world Azure architecture and deployment.
+
+
+
+---
+
+## 📄 Project Documentation
+
+For detailed implementation steps and architecture explanation:
+
+👉 [Download Full Project PDF](./finalportfolio.pdf)
+
+
+##  Added project PDF link
+
+
+
+
