@@ -14,7 +14,7 @@ This project demonstrates a **production-style 3-tier architecture** on Azure us
 
 ## 🏗️ Architecture
 
-![Architecture](./images/architecture.png)
+![./app-NSG RULES.jpg]
 
 ```text
 User → Web VM → App VM → Azure SQL Database
