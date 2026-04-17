@@ -9,7 +9,7 @@ This project demonstrates a **production-style 3-tier architecture** on Azure us
 * **Web Tier (Frontend - Flask)**
 * **App Tier (Backend API - Flask)**
 * **Data Tier (Azure SQL Database with Private Endpoint)**
-![Architecture](./images/architecture.png)
+![Architecture](app-NSG RULES.jpg)
 ---
 
 ## 🏗️ Architecture
