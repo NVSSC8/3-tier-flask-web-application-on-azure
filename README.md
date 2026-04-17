@@ -13,7 +13,7 @@ This project demonstrates a **production-style 3-tier architecture** on Azure us
 ---
 
 ## 🏗️ Architecture
-![Architecture](./flaskapplication/architecture.png)
+![Architecture](./flaskapplication/architecture.png.png)
 
 ```text
 User → Web VM → App VM → Azure SQL Database
