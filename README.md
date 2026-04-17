@@ -190,7 +190,7 @@ Cloud / DevOps Project demonstrating real-world Azure architecture and deploymen
 
 For detailed implementation steps and architecture explanation:
 
-👉 [Download Full Project PDF](./finalportfolio.pdf)
+👉 [Download Full Project PDF](./FINAL_PORTFOLIO_3TIER_PROJECT)
 
 
 ##  Added project PDF link
